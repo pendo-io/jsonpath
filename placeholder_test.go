@@ -3,7 +3,7 @@ package jsonpath_test
 import (
 	"testing"
 
-	"github.com/pendo-io/jsonpath"
+	"github.com/PaesslerAG/jsonpath"
 )
 
 func TestWildcardsExtension(t *testing.T) {
