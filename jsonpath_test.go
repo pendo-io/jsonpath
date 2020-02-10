@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/PaesslerAG/gval"
-	"github.com/pendo-io/jsonpath"
+	"github.com/PaesslerAG/jsonpath"
 )
 
 type jsonpathTest struct {
